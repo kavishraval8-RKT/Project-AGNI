@@ -36,10 +36,5 @@ AGNI (Advanced Ground-test Node for Ignition) is a custom PCB for rocket motor t
 
 ---
 
-## Schematic Snapshot
-![AGNI Schematic](docs/AGNI_schematic.png)
-
----
-
 ## License
 This project is released under the MIT License.
