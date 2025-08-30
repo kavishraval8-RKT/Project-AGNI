@@ -38,10 +38,10 @@ AGNI (Advanced Ground-test Node for Ignition) is a custom PCB for rocket motor t
 ---
 
 ## System Sensing
--HX711 (Load Cell Amp): Captures thrust data for precise force measurement.
--MPU6050 (Accel/Gyro): Monitors vibrations and motion during ignition.
--MAX6675 (Thermocouples): Measures motor case, nozzle, and exhaust temperatures.
--Servo (PWM): Controls mechanical arming and actuation.
+- HX711 (Load Cell Amp): Captures thrust data for precise force measurement.
+- MPU6050 (Accel/Gyro): Monitors vibrations and motion during ignition.
+- MAX6675 (Thermocouples): Measures motor case, nozzle, and exhaust temperatures.
+- Servo (PWM): Controls mechanical arming and actuation.
 
 ---
 
